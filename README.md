@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Not (general documentation > specific documentation) && Not !(integration test > unit test) 🤫
 <!--
 **TinajaStyle/TinajaStyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
